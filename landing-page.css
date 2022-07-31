@@ -137,6 +137,48 @@ body {
     padding-right: 5px ;
 }
 
+.fourth-section {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.blue-section {
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3882f6;
+    max-width: 800px;
+    padding: 40px 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-para {
+    max-width: 440px;
+}
+
+.right-button button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 15px;
+    font-weight: 900;
+    padding: 5px 25px;
+    border-radius: 8px;
+    border: 2px solid #f9faf8;
+    max-width: 110px;
+    
+}
+
+.left-para p {
+    color:#f9faf8;
+    margin: 0px;
+}
+
+.left-para .line-1 {
+    font-weight: 600;
+    font-size: 20px;
+}
 
 
 
