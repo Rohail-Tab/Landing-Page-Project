@@ -109,6 +109,36 @@ body {
     max-width: 170px;
 }
 
+.third-section {
+    background-color:#efe7eb;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.author, .quote {
+    padding: 10px;
+    max-width: 795px;
+    margin: 0px auto;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color:#1f2937;
+
+}
+
+.author {
+    font-weight: 900;
+    font-size: 19px;
+    color:black;
+    margin-top: 10px;
+    text-align: right;
+    padding-right: 5px ;
+}
+
+
+
 
 
 
