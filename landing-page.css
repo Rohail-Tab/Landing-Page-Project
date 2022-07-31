@@ -180,6 +180,19 @@ body {
     font-size: 20px;
 }
 
+footer {
+    background-color:#1f2937;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    color:#efe7eb;
+    text-align: center;
+}
+
 
 
 
